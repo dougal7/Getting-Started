@@ -12,4 +12,5 @@ for word in list_of_words:
 		sad += 1
 
 print sad
+print "Did this work"?
 
